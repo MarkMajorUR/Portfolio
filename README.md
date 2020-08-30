@@ -1,2 +1,2 @@
 # Portfolio
-I assume this is how you edit the read me? i Hope
+This is my Portfolio homework assignment
